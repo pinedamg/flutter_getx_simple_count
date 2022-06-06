@@ -1,16 +1,34 @@
-# counter
+![visitors](https://visitor-badge.glitch.me/badge?page_id=pinedamg.flutter_getx_simple_count)
+![null safety](https://img.shields.io/badge/null-safety-blue)
+![flutter version](https://img.shields.io/badge/flutter-3.x-blue)
+![getx version](https://img.shields.io/badge/getx-4.x-blue)
 
-A new Flutter project.
+# Flutter GetX Pattern Simple Count
+This is just a simple example of a simple count app with GetX and GetX Pattern created using Get CLI
 
-## Getting Started
+## Features
+- Built using Get Cli
+- Following GetX Pattern
 
-This project is a starting point for a Flutter application.
+## Installation
+```bash
+  git clone git@github.com:pinedamg/flutter_getx_simple_count.git
+  cd flutter_getx_simple_count
+  flutter pub get
+  flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Acknowledgements
+ - [Flutter](https://github.com/flutter/flutter)
+ - [GetX](https://github.com/jonataslaw/getx)
+ - [GetX Pattern](https://github.com/kauemurakami/getx_pattern)
+ - [GetX Cli](https://github.com/jonataslaw/get_cli)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Feedback
+If you have any feedback, please reach out to us at pinedamg@gmail.com
+
+## 🚀 About Me
+[A fool who fell in love with programming...](https://www.linkedin.com/in/pinedamg/)
