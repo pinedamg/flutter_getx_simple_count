@@ -19,7 +19,8 @@ This is just a simple example of a simple count app with GetX and GetX Pattern c
 ```
 
 ## Screenshots
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://user-images.githubusercontent.com/818713/172175564-a3d77cb4-4d41-4009-9468-54ecd40b6c33.png)
+
 
 ## Acknowledgements
  - [Flutter](https://github.com/flutter/flutter)
